@@ -1,5 +1,6 @@
 [
     {
+        "sku":"waiwai",
         "Amazon": {
             "Info": {
                 "Id": "10614",
@@ -9,15 +10,10 @@
                 "Url": ""
             },
             "Competitors": [{
-                "Name": "Abc",
-                "Shipping": "12",
-                "Price": "12",
-                "Tax": "12"
-            },{
-                "Name": "Apple",
-                "Shipping": "12",
-                "Price": "12",
-                "Tax": "12"
+                "Name": "Maggie Chowchow",
+                "Shipping": "1",
+                "Price": "100",
+                "Tax": "0.9"
             }]
         },
         "Google": {
@@ -30,5 +26,40 @@
             },
             "Competitors": []
         }
-   }    
+   },
+   {
+        "sku":"rara",
+        "Amazon": {
+            "Info": {
+                "Id": "10615",
+                "Price Category": "Not Only Seller",
+                "Recommended Action": "",
+                "Rundate": "2019-02-21",
+                "Url": ""
+            },
+            "Competitors": [{
+                "Name": "Maggie Chowchow",
+                "Shipping": "1",
+                "Price": "5",
+                "Tax": "0.9"
+            },
+            {
+                "Name": "Wai Wai Chowchow",
+                "Shipping": "1",
+                "Price": "4",
+                "Tax": "0.1"
+            }
+        ]
+        },
+        "Google": {
+            "Info": {
+                "Id": "",
+                "Price Category": "",
+                "Recommended Action": "",
+                "Rundate": "",
+                "Url": ""
+            },
+            "Competitors": []
+        }
+   }
 ]
